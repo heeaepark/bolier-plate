@@ -1,0 +1,25 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "boiler-plate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/heeaepark/bolier-plate.git"
+  },
+  "author": "heeae Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heeaepark/bolier-plate/issues"
+  },
+  "homepage": "https://github.com/heeaepark/bolier-plate#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5"
+  }
+}
